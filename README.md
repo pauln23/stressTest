@@ -10,11 +10,15 @@ Example is shown below.
 
 Data capture 
 
-Threads      Time To Complete (sec)
-1              46
-2              24
-4              14
+Threads      
+1             
+2              
+4             
 
+Time To Complete (sec)
+46
+24
+14
 
 Analysis 
 
