@@ -17,7 +17,9 @@ Threads
 
 Time To Complete (sec)
 46
+
 24
+
 14
 
 Analysis 
